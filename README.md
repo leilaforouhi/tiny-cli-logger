@@ -2,7 +2,7 @@
 #!/usr/bin/env python3
 """
 Tiny CLI Logger
-- Logs current date/time and basic environment details into log.tx
+- Logs current date/time and basic environment details into log.txt
 """
 
 import datetime, platform, os
